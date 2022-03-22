@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rob-Pauly
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Data Scientist
+- 👀 I’m interested in Linked (Open) Data, Data Analytics and Data Science
+- 🌱 I’m currently learning Data Scientist program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
